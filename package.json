@@ -1,0 +1,14 @@
+{
+  "name": "doc-manager",
+  "version": "1.0.0",
+  "description": "CogPlus FS Eng Assignment",
+  "main": "server.js",
+  "repository": "https://github.com/CW-Logothetis/doc-manager.git",
+  "author": "CW Logothetis",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  }
+}
